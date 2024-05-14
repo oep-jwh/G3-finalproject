@@ -8,7 +8,7 @@
 
 ## Lesson Materials
 
-### Story 3: The Peddler's Magic Seeds 
+### Story Title: The Peddler's Magic Seeds 
 + [text link](https://raw.githubusercontent.com/MK316/Spring2024/main/DLTESOL/project/story03.txt)
 + [image link](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project/Story03.png)
 
