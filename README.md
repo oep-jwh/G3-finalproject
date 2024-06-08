@@ -8,9 +8,9 @@
 
 ## Lesson Plan
 
-|             Grade           |    Proficiency Level     |            Time Frame             |
-|-----------------------------|--------------------------|-----------------------------------|
-|   Middle school 2nd grade   |     Intermediate-Low     |   50 mins. (15 - 25 - 10 mins.)   |
+|             Grade           |    Proficiency Level (ACTFL)     |            Time Frame             |
+|-----------------------------|----------------------------------|-----------------------------------|
+|   Middle school 2nd grade   |         Intermediate-Low         |   50 mins. (15 - 25 - 10 mins.)   |
 
 |  Time |        Sequencing of Activities       |     Resources      |      Interactions     |
 |-------|---------------------------------------|--------------------| ----------------------|
