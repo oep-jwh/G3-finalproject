@@ -8,11 +8,14 @@
 
 ## Lesson Plan
 
-  Time |     Sequencing of Activities      |    Resources     |    Resources
--------|-----------------------------------|------------------| 
-       |                                   |                  |
-       |                                   |                  |
-      
+  Time |     Sequencing of Activities      |    Resources     |    Interactions   |
+-------|-----------------------------------|------------------| ------------------|
+**15** |                           **Pre-reading**                                |
+    2  |    Ice breaking with the topic    | Visual Material  |       T - Ss      |
+    7  |        Vocabulary Builder         |       App #1     |      In pairs     |     
+    7  |        Vocabulary Builder         |       App #1     |      In pairs     |    
+
+
 
 ## Lesson Materials
 
