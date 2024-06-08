@@ -8,18 +8,18 @@
 
 ## Lesson Plan
 
-|  Time |     Sequencing of Activities      |     Resources      |      Interactions     |
-|-------|-----------------------------------|--------------------| ----------------------|
-|   3   |    Ice breaking with the topic    | Visual Material #1 |        In class       |
-|   7   |        Vocabulary Builder         |        App #1      |        In pairs       |     
-|   5   |  Guessing the story with images   |        App #2      |        In pairs       |  
-|------ |-----------------------------------|--------------------| ----------------------|   
-|   5   | Introduced the story with a video | Visual Material #2 |        In pairs       |
-|  10   |       Understaning the story      |  Audio Material #1 |        In class       |     
-|  10   |  Checking Reading Comprehension   |        App #3      |       Individual      | 
-|------ |-----------------------------------|--------------------| ----------------------|   
-|  10   |   Sharing opinions & Feedback     |        App #4      | Individual - In class |     
-|------ |-----------------------------------|--------------------| ----------------------| 
+|  Time |        Sequencing of Activities       |     Resources      |      Interactions     |
+|-------|---------------------------------------|--------------------| ----------------------|
+|   3   |      Ice breaking with the topic      | Visual Material #1 |        In class       |
+|   7   |          Vocabulary Builder           |        App #1      |        In pairs       |     
+|   5   |    Guessing the story with images     |        App #2      |        In pairs       |  
+|------ |---------------------------------------|--------------------| ----------------------|   
+|   5   |   Introduced the story with a video   | Visual Material #2 |        In pairs       |
+|  10   |  Understaning the story with an audio |  Audio Material #1 |        In class       |     
+|  10   |    Checking Reading Comprehension     |        App #3      |       Individual      | 
+|------ |---------------------------------------|--------------------| ----------------------|   
+|  10   |     Sharing opinions & Feedback       |        App #4      | Individual - In class |     
+|------ |---------------------------------------|--------------------| ----------------------| 
 
 ## Lesson Objectives
 
