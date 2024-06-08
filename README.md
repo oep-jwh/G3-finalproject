@@ -19,7 +19,7 @@
 |   7   |          Vocabulary Builder           |        App #1      |        In pairs       |     
 |   5   |    Guessing the story with images     |        App #2      |        In pairs       |  
 |------ |---------------------------------------|--------------------| ----------------------|   
-|   5   |   Introduced the story with a video   | Visual Material #2 |        In pairs       |
+|   5   |   Introduced the story with a video   | Visual Material #2 | Individual - In pairs |
 |  10   |  Understaning the story with an audio |  Audio Material #1 |        In class       |     
 |  10   |    Checking Reading Comprehension     |        App #3      |       Individual      | 
 |------ |---------------------------------------|--------------------| ----------------------|   
