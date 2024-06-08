@@ -8,13 +8,17 @@
 
 ## Lesson Plan
 
-  Time |     Sequencing of Activities      |    Resources     |    Interactions   |
--------|-----------------------------------|------------------| ------------------|
-### 15 |                          ### Pre-reading                                 |
-    2  |    Ice breaking with the topic    | Visual Material  |       T - Ss      |
-    7  |        Vocabulary Builder         |       App #1     |      In pairs     |     
-    7  |        Vocabulary Builder         |       App #1     |      In pairs     |    
-
+|  Time |     Sequencing of Activities      |    Resources     |    Interactions   |
+|-------|-----------------------------------|------------------| ------------------|
+|    2  |    Ice breaking with the topic    | Visual Material  |       T - Ss      |
+|    7  |        Vocabulary Builder         |       App #1     |      In pairs     |     
+|    6  |  Guessing the story with images   |       App #2     |      In pairs     |  
+|-------|-----------------------------------|------------------| ------------------|   
+|    2  |    Ice breaking with the topic    | Visual Material  |       T - Ss      |
+|    7  |        Vocabulary Builder         |       App #1     |      In pairs     |     
+|    6  |  Guessing the story with images   |       App #2     |      In pairs     | 
+|-------|-----------------------------------|------------------| ------------------|   
+|    7  |        Vocabulary Builder         |       App #1     |      In pairs     |     
 
 
 ## Lesson Materials
