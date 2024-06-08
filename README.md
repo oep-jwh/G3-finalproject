@@ -27,8 +27,11 @@
 |------ |---------------------------------------|--------------------| ----------------------| 
 
 ## Lesson Objectives
-
-
++ To engage with Interactive Digital Content
++ To collaborate and Communicate Effectively
++ To strengthen Comprehension Skills
++ Develop Digital Proficiency
++ Experience a Sustainable, Paper-Free Learning Environment
 
 ## Lesson Structure & Activities
 
