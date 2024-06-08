@@ -8,6 +8,12 @@
 
 ## Lesson Plan
 
+  Time |     Sequencing of Activities      |    Resources     |    Resources
+-------|-----------------------------------|------------------| 
+       |                                   |                  |
+       |                                   |                  |
+      
+
 ## Lesson Materials
 
 ### Story Title: The Peddler's Magic Seeds 
