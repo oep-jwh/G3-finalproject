@@ -21,6 +21,14 @@
 |  10   |   Sharing opinions & Feedback     |        App #4      | Individual - In class |     
 |------ |-----------------------------------|--------------------| ----------------------| 
 
+## Lesson Objectives
+
+
+
+## Lesson Structure & Activities
+
+
+
 ## Lesson Materials
 
 ### Story Title: The Peddler's Magic Seeds 
