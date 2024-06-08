@@ -10,7 +10,7 @@
 
   Time |     Sequencing of Activities      |    Resources     |    Interactions   |
 -------|-----------------------------------|------------------| ------------------|
-**15** |                           **Pre-reading**                                |
+### 15 |                          ### Pre-reading                                 |
     2  |    Ice breaking with the topic    | Visual Material  |       T - Ss      |
     7  |        Vocabulary Builder         |       App #1     |      In pairs     |     
     7  |        Vocabulary Builder         |       App #1     |      In pairs     |    
