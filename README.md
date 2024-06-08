@@ -8,6 +8,10 @@
 
 ## Lesson Plan
 
+|             Grade             |         Proficiency Level        |       Time Frame        |
+|-------------------------------|----------------------------------|-------------------------|
+|     Middle school 2nd grade   |         Intermediate-Low         |         50 mins.        |
+
 |  Time |        Sequencing of Activities       |     Resources      |      Interactions     |
 |-------|---------------------------------------|--------------------| ----------------------|
 |   3   |      Ice breaking with the topic      | Visual Material #1 |        In class       |
