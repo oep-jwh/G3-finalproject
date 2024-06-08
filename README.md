@@ -4,7 +4,7 @@
 + Overview of the project here :-)
 
 ## Useful Links
-| 🔸[Emoji](https://gist.github.com/rxaviers/7360908) | 🔸[ProjectGuide](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project/README.md) | 🔸[Reading material](https://raw.githubusercontent.com/MK316/Spring2024/main/DLTESOL/project/story03.txt) | 🔸[Coding] | 🔸 [APP#1] | 🔸 [APP#2](https://bori0824-ImageUnscrambling.hf.space)  | 🔸 [APP#3] | 🔸 [APP#4]🔸 [Visual Material#1]🔸 [Visual Material#2](https://ai.invideo.io/watch/O5Q4fOeVnoH)🔸 [Audio Material#1](https://bori0824-multitts.hf.space)
+| 🔸[Emoji](https://gist.github.com/rxaviers/7360908) | 🔸[ProjectGuide](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project/README.md) | 🔸[Reading material](https://raw.githubusercontent.com/MK316/Spring2024/main/DLTESOL/project/story03.txt) | 🔸[Coding] | 🔸 [APP#1] | 🔸 [APP#2](https://bori0824-ImageUnscrambling.hf.space) | 🔸 [APP#3] | 🔸 [APP#4] |🔸 [Visual Material#1] |🔸 [Visual Material#2](https://ai.invideo.io/watch/O5Q4fOeVnoH) |🔸 [Audio Material#1](https://bori0824-multitts.hf.space) |
 
 ## Lesson Plan
 
