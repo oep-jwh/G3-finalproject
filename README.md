@@ -15,7 +15,7 @@
 
 |  Time |        Sequencing of Activities       |     Resources      |      Interactions     |
 |-------|---------------------------------------|--------------------| ----------------------|
-|   3   |      Ice breaking with the topic      | Visual Material #1 |        In class       |
+|   3   |       Icebreaking with the topic      | Visual Material #1 |        In class       |
 |   7   |         Building Vocabulary           |        App #1      |        In pairs       |     
 |   5   |    Guessing the story with images     |        App #2      |        In pairs       |  
 |------ |---------------------------------------|--------------------| ----------------------|   
