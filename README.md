@@ -1,5 +1,5 @@
 # 📙 Group 3 Final project 
-+ Last updated (0608 by bori0824)
++ Last updated (0610 by bori0824)
 + Presentation is scheduled on June 18 (Tuesday)
 + Overview of the project here :-)
 
