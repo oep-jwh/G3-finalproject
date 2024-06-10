@@ -31,7 +31,7 @@
 + To support to Collaborate and Communicate effectively
 + To strengthen Comprehension Skills
 + To develop Digital Proficiency
-+ (To experience a sustainable, paper-free learning environment)
++ To experience a sustainable, paper-free learning environment
   
 ## Lesson Structure & Activities
 ### [Pre-reading activities (15 mins.)]
