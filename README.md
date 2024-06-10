@@ -35,70 +35,43 @@
   
 ## Lesson Structure & Activities
 ### [Pre-reading activities (15 mins.)]
-**(3) Icebreaking with the topic**
-
+**Icebreaking with the topic (3 mins.)**
 **Activity:** Ss share their experiences and thoughts related to the topic introduced by T.
-
 **App Functionality:**
-
 **Objective:**
 
-
-**(7) Building Vocabulary**
-
+**Building Vocabulary (7 mins.)**
 **Activity:** Students interact with an app to learn and practice key vocabulary related to the story through flashcards, matching games, or quizzes.
-
 **App Functionality:** The app provides digital flashcards, interactive matching games, and quizzes that students can complete on their tablets.
-
 **Objective:** Introduce and practice key vocabulary related to the story, enhancing students’ vocabulary knowledge.
 
-
-**(5) Guessing the story wiwth images**
-
+**Guessing the story wiwth images (5 mins.)**
 **Activity:** Ss guess the story with the images related to the story. 
-
 **App Functionality:** This application displays three WordCloud images meaning Intro, Body, and Conclusion and 6 random images of the story. Ss use their tablets to guess and discuss the story with peers and unscramble the random images in the right order after looking at the WordCloud imaages.
-
 **Objective:** Encourage students to make predictions about the story and develop inferencing skills.
 
 
-
 ### [During-reading activities (25 mins.)]
-**(5) Introduced the Story with a video** 
-
+**Introduced the Story with a video (5 mins.)** 
 **Activity:** Ss watch a teacher-created video of the full story, taking notes and paying attention to main characters, settings, and events.
-
 **App Functionality:** The video is played on [the interactive whiteboard], and students can access the video on their tablets for closer viewing.
-
 **Objective:** Provide an overview of the story and introduce the story through visual and auditory learning.
 
-
-**(10) Understanding the Story with audio**
-
+**Understanding the Story with audio (10 mins.)**
 **Activity:** Ss listen to the story in segments and answering the questions provided by T to enhance comprehension on the plot and main elements.
-
 **App Functionality:** The app plays audio segments of the story [in class by T.] providing Ss with QR code to access on their tablets [when needed].
-
 **Objective:** Focus on listening skills and detailed comprehension, identifying key story elements.
 
-
-**(10) Checking Reading Comprehension** 
-
+**Checking Reading Comprehension (10 mins.)** 
 **Activity:** Students answer multiple-choice, true/false, short answer, and vocabulary questions related to the story.
-
 **App Functionality:** The app presents comprehension questions that students can answer on their tablets, providing immediate feedback.
-
 **Objective:** Enhance Reading Comprehension skills and promote Critical Thinking and Vocabulary development.
 
 
-
-### [[Post-reading activity (10 mins.)]]
-**(10) [Sharing Opinions & Feedback]**
-
+### [Post-reading activity (10 mins.)]
+**[Sharing Opinions & Feedback] (10 mins.)**
 **Activity:** Ss receive common critical thinking questions instead of a reading passage and record their responses, listening to their pronunciation and evaluating it.
-
 **App Functionality:** 
-
 **Objective:** Develop Ss' ability to express personal opinions in English by responding to critical thinking questions.
 
 
