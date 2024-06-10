@@ -77,7 +77,7 @@
 
 
 ### [Post-reading activity (10 mins.)]
-**👄 [Sharing Opinions & Feedback] (10 mins.)**
+**👄 [Thinking critically & Evaluating] (10 mins.)**
 
 **Activity:** Ss receive common critical thinking questions instead of a reading passage and record their responses, listening to their pronunciation and evaluating it.
 **App Functionality:** 
