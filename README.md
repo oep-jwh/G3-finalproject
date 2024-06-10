@@ -36,6 +36,7 @@
 ## Lesson Structure & Activities
 ### [Pre-reading activities (15 mins.)]
 **(3) Icebreaking with the topic**
+
 **Activity:** Ss share their experiences and thoughts related to the topic introduced by T.
 
 **App Functionality:**
@@ -43,6 +44,7 @@
 **Objective:**
 
 **(7) Building Vocabulary**
+
 **Activity:** Students interact with an app to learn and practice key vocabulary related to the story through flashcards, matching games, or quizzes.
 
 **App Functionality:** The app provides digital flashcards, interactive matching games, and quizzes that students can complete on their tablets.
@@ -50,6 +52,7 @@
 **Objective:** Introduce and practice key vocabulary related to the story, enhancing students’ vocabulary knowledge.
 
 **(5) Guessing the story wiwth images**
+
 **Activity:** Ss guess the story with the images related to the story. 
 
 **App Functionality:** This application displays three WordCloud images meaning Intro, Body, and Conclusion and 6 random images of the story. Ss use their tablets to guess and discuss the story with peers and unscramble the random images in the right order after looking at the WordCloud imaages.
