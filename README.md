@@ -62,6 +62,7 @@
 **Objective:** Encourage students to make predictions about the story and develop inferencing skills.
 
 
+
 ### [During-reading activities (25 mins.)]
 **(5) Introduced the Story with a video** 
 
@@ -88,6 +89,7 @@
 **App Functionality:** The app presents comprehension questions that students can answer on their tablets, providing immediate feedback.
 
 **Objective:** Enhance Reading Comprehension skills and promote Critical Thinking and Vocabulary development.
+
 
 
 ### [[Post-reading activity (10 mins.)]]
