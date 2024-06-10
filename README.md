@@ -43,6 +43,7 @@
 
 **Objective:**
 
+
 **(7) Building Vocabulary**
 
 **Activity:** Students interact with an app to learn and practice key vocabulary related to the story through flashcards, matching games, or quizzes.
@@ -50,6 +51,7 @@
 **App Functionality:** The app provides digital flashcards, interactive matching games, and quizzes that students can complete on their tablets.
 
 **Objective:** Introduce and practice key vocabulary related to the story, enhancing students’ vocabulary knowledge.
+
 
 **(5) Guessing the story wiwth images**
 
@@ -61,28 +63,40 @@
 
 
 ### [During-reading activities (25 mins.)]
-(5) Introduced the Story with a video 
+**(5) Introduced the Story with a video** 
+
 **Activity:** Ss watch a teacher-created video of the full story, taking notes and paying attention to main characters, settings, and events.
+
 **App Functionality:** The video is played on [the interactive whiteboard], and students can access the video on their tablets for closer viewing.
+
 **Objective:** Provide an overview of the story and introduce the story through visual and auditory learning.
 
 
-(10) Understanding the Story with audio
+**(10) Understanding the Story with audio**
+
 **Activity:** Ss listen to the story in segments and answering the questions provided by T to enhance comprehension on the plot and main elements.
+
 **App Functionality:** The app plays audio segments of the story [in class by T.] providing Ss with QR code to access on their tablets [when needed].
+
 **Objective:** Focus on listening skills and detailed comprehension, identifying key story elements.
 
 
-(10) Checking Reading Comprehension 
+**(10) Checking Reading Comprehension** 
+
 **Activity:** Students answer multiple-choice, true/false, short answer, and vocabulary questions related to the story.
+
 **App Functionality:** The app presents comprehension questions that students can answer on their tablets, providing immediate feedback.
+
 **Objective:** Enhance Reading Comprehension skills and promote Critical Thinking and Vocabulary development.
 
 
 ### [[Post-reading activity (10 mins.)]]
-(10) [Sharing Opinions & Feedback]
+**(10) [Sharing Opinions & Feedback]**
+
 **Activity:** Ss receive common critical thinking questions instead of a reading passage and record their responses, listening to their pronunciation and evaluating it.
+
 **App Functionality:** 
+
 **Objective:** Develop Ss' ability to express personal opinions in English by responding to critical thinking questions.
 
 
