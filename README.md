@@ -4,7 +4,7 @@
 + Overview of the project here :-)
 
 ## Useful Links
-| 🔸[Emoji](https://gist.github.com/rxaviers/7360908) | 🔸[ProjectGuide](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project/README.md) | 🔸[Reading material](https://raw.githubusercontent.com/MK316/Spring2024/main/DLTESOL/project/story03.txt) | 🔸[Coding] | 🔸 [APP#1](https://huggingface.co/spaces/joonp30/flashcard) | 🔸 [APP#2](https://bori0824-ImageUnscrambling.hf.space) | 🔸 [APP#3](https://huggingface.co/spaces/hannah416/during_comprehension_test) | 🔸 [APP#4] |🔸 [Visual Material#1] |🔸 [Visual Material#2](https://ai.invideo.io/watch/O5Q4fOeVnoH) |🔸 [Audio Material#1](https://bori0824-multitts.hf.space) |
+| 🔸[Emoji](https://gist.github.com/rxaviers/7360908) | 🔸[ProjectGuide](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project/README.md) | 🔸[Reading material](https://raw.githubusercontent.com/MK316/Spring2024/main/DLTESOL/project/story03.txt) | 🔸[Coding] | 🔸 [APP#1](https://huggingface.co/spaces/joonp30/flashcard) | 🔸 [APP#2](https://bori0824-ImageUnscrambling.hf.space) | 🔸 [APP#3](https://huggingface.co/spaces/hannah416/during_comprehension_test) | 🔸 [APP#4](https://jinggujiwoo7-speechfeedback.hf.space) |🔸 [Visual Material#1] |🔸 [Visual Material#2](https://ai.invideo.io/watch/O5Q4fOeVnoH) |🔸 [Audio Material#1](https://bori0824-multitts.hf.space) |
 
 ## Lesson Plan
 
@@ -23,7 +23,7 @@
 |  10   |   Understaning the story with audio   |  Audio Material #1 |        In class       |     
 |  10   |    Checking Reading Comprehension     |        App #3      |       Individual      | 
 |------ |---------------------------------------|--------------------| ----------------------|   
-|  10   |     Sharing opinions & Feedback       |        App #4      | Individual - In class |     
+|  10   |    Thinking critically & Evaluating   |        App #4      | Individual - In class |     
 |------ |---------------------------------------|--------------------| ----------------------| 
 
 ## Lesson Objectives 
@@ -93,4 +93,3 @@
 
 **<Synopsis>**
 In a quaint village surrounded by rolling hills, young Tom struggled with the tough soil in his family's garden. One day, a peddler arrived selling various items, including magical seeds. Tom purchased a packet and planted them in his garden. To everyone's surprise, the seeds grew into vibrant and lush plants, transforming the barren garden into a wonder. The remarkable growth of these plants brought the community together, with neighbors sharing seeds and gardening tips. Inspired by the peddler, Tom later became a peddler himself, spreading joy and community spirit by selling magic seeds to other villages. Tom's story became a symbol of how small acts of kindness and curiosity can lead to widespread beauty and unity.
-
