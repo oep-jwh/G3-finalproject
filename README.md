@@ -38,9 +38,7 @@
 **Icebreaking with the topic (3 mins.)**
 
 **Activity:** Ss share their experiences and thoughts related to the topic introduced by T.
-
 **App Functionality:**
-
 **Objective:**
 
 **Building Vocabulary (7 mins.)**
