@@ -36,11 +36,13 @@
 ## Lesson Structure & Activities
 ### [Pre-reading activities (15 mins.)]
 **Icebreaking with the topic (3 mins.)**
+
 **Activity:** Ss share their experiences and thoughts related to the topic introduced by T.
 **App Functionality:**
 **Objective:**
 
 **Building Vocabulary (7 mins.)**
+
 **Activity:** Students interact with an app to learn and practice key vocabulary related to the story through flashcards, matching games, or quizzes.
 **App Functionality:** The app provides digital flashcards, interactive matching games, and quizzes that students can complete on their tablets.
 **Objective:** Introduce and practice key vocabulary related to the story, enhancing students’ vocabulary knowledge.
