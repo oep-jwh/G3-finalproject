@@ -38,9 +38,7 @@
 
 (3) Icebreaking with the topic
 **Activity:** Ss share their experiences and thoughts related to the topic introduced by T.
-
 **App Functionality:**
-
 **Objective:**
 
 (7) Building Vocabulary
@@ -50,7 +48,7 @@
 
 (5) Guessing the story wiwth images
 **Activity:** Ss guess the story with the images related to the story. 
-**App Functionality:** This application displays three WordCloud images meaning Intro, Body, and Conclusion and 6 random images of the story. Ss use their tablets to guess and discuss the story with peers and unscramble the random images in the right order after looking at the WordCloud imaages. 
+**App Functionality:** This application displays three WordCloud images meaning Intro, Body, and Conclusion and 6 random images of the story. Ss use their tablets to guess and discuss the story with peers and unscramble the random images in the right order after looking at the WordCloud imaages.
 **Objective:** Encourage students to make predictions about the story and develop inferencing skills.
 
 
