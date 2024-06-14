@@ -47,6 +47,70 @@
 **App Functionality:** The app provides digital flashcards, interactive matching games, and quizzes that students can complete on their tablets.
 **Objective:** Introduce and practice key vocabulary related to the story, enhancing students’ vocabulary knowledge.
 
+# Install necessary libraries
+!pip install gradio gtts Pillow requests
+
+# Import libraries
+import gradio as gr
+from gtts import gTTS
+from PIL import Image
+import requests
+from io import BytesIO
+
+# Manually add definitions
+word_definitions = {
+    "quaint": "Having an old-fashioned or unusual quality or appearance that is usually attractive or appealing.",
+    "explore": "To travel over or through (a place) in order to learn more about it or to find something.",
+    "cheerful": "Feeling or showing happiness.",
+    "peddler": "Someone who sells things in small amounts often by traveling to different places.",
+    "curious": "Having a desire to learn or know more about something or someone.",
+    "enthusiasm": "Strong excitement about something; a strong feeling of active interest in something that you like or enjoy.",
+    "skeptical": "Having or expressing doubt about something.",
+    "whisper": "To speak very softly or quietly."
+}
+
+# Corresponding image URLs (example URLs, replace with actual GitHub links)
+image_urls = {
+    "quaint": "https://raw.githubusercontent.com/PAMUS-JP30/flashcard/main/001.png",
+    "explore": "https://raw.githubusercontent.com/PAMUS-JP30/flashcard/main/002.png",
+    "cheerful": "https://raw.githubusercontent.com/PAMUS-JP30/flashcard/main/003.png",
+    "peddler": "https://raw.githubusercontent.com/PAMUS-JP30/flashcard/main/004.png",
+    "curious": "https://raw.githubusercontent.com/PAMUS-JP30/flashcard/main/005.png",
+    "enthusiasm": "https://raw.githubusercontent.com/PAMUS-JP30/flashcard/main/006.png",
+    "skeptical": "https://raw.githubusercontent.com/PAMUS-JP30/flashcard/main/007.png",
+    "whisper": "https://raw.githubusercontent.com/PAMUS-JP30/flashcard/main/008.png"
+}
+
+def generate_output(word):
+    definition = f"{word.capitalize()}: {word_definitions[word]}"
+    
+    # Get the image
+    image_url = image_urls[word]
+    response = requests.get(image_url)
+    img = Image.open(BytesIO(response.content))
+    img = img.resize((400, 250))  # Resize the image
+    
+    # Generate the audio
+    tts = gTTS(text=definition, lang='en', tld='co.uk', slow=False)
+    audio_file = f"{word}.mp3"
+    tts.save(audio_file)
+    
+    return img, audio_file
+
+# Create the Gradio interface
+iface = gr.Interface(
+    fn=generate_output,
+    inputs=gr.Dropdown(choices=list(word_definitions.keys()), label="Choose a word"),
+    outputs=[gr.Image(type="pil"), gr.Audio(type="filepath", autoplay=True)],
+    title="Word Definition with Image and Audio"
+)
+
+# Launch the interface
+iface.launch(share=True)
+
+
+
+
 **🎰 Guessing the story wiwth images (5 mins.)**
 
 **Activity:** Ss guess the story with the images related to the story. 
